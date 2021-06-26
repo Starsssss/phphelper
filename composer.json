@@ -1,0 +1,13 @@
+{
+    "name": "william/phphelper",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "chenruixin",
+            "email": "2543852925@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
